@@ -1,4 +1,4 @@
-num = int(input()) 
+num = int(input()) #.
 arr = []
 
 for i in range(num):
