@@ -1,6 +1,6 @@
 import sys
 
-#input()보다 readline()이 더 빠름
+#input()보다 readline()이 더 빠르다
 
 N = int(sys.stdin.readline())
 arr = []
