@@ -1,3 +1,1 @@
 # BOJ_Python
-.  
-.
